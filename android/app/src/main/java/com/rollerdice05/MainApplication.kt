@@ -1,4 +1,4 @@
-package com.rollerdice05
+package com.ludoapp07
 
 import android.app.Application
 import com.facebook.react.PackageList
